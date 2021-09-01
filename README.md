@@ -1,6 +1,4 @@
-# Enabled
-
-SITE CONTROLS 
+# SITE CONTROLS 
 
 ESC -  BACK/EXIT
 
